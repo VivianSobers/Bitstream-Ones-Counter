@@ -1,4 +1,4 @@
-# bitstream-ones-counter
+# Bitstream Ones Counter
 
 A hardware implementation of a **bitstream ones counter** — loads a 15-bit input, serially shifts it out, and counts the number of `1` bits using a ripple counter. Designed in Verilog HDL with a Logisim circuit schematic and a self-checking testbench.
 
@@ -6,7 +6,7 @@ A hardware implementation of a **bitstream ones counter** — loads a 15-bit inp
 
 ## Circuit Schematic
 
-![Logisim Circuit](assets/Screenshot_2025-11-08_204048.png)
+![Logisim Circuit](Logisim Circuit.png)
 
 ---
 
