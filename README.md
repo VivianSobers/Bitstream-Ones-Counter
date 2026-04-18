@@ -6,7 +6,7 @@ A hardware implementation of a **bitstream ones counter** — loads a 15-bit inp
 
 ## Circuit Schematic
 
-![Logisim Circuit](Logisim Circuit.png)
+![Logisim Circuit](Logisim%20Circuit.png)
 
 ---
 
